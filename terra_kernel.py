@@ -1,0 +1,1 @@
+print("TerraPrime: Architect Kernel Initialized.")
